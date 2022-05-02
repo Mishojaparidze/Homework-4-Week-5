@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misho\\source\\repos\\Homework-4 Week-5\\Homework-4 Week-5.csproj": {}
+    "C:\\Users\\misho\\source\\repos\\Homework-4-Week-5\\Homework-4 Week-5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misho\\source\\repos\\Homework-4 Week-5\\Homework-4 Week-5.csproj": {
+    "C:\\Users\\misho\\source\\repos\\Homework-4-Week-5\\Homework-4 Week-5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misho\\source\\repos\\Homework-4 Week-5\\Homework-4 Week-5.csproj",
+        "projectUniqueName": "C:\\Users\\misho\\source\\repos\\Homework-4-Week-5\\Homework-4 Week-5.csproj",
         "projectName": "Homework-4 Week-5",
-        "projectPath": "C:\\Users\\misho\\source\\repos\\Homework-4 Week-5\\Homework-4 Week-5.csproj",
+        "projectPath": "C:\\Users\\misho\\source\\repos\\Homework-4-Week-5\\Homework-4 Week-5.csproj",
         "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misho\\source\\repos\\Homework-4 Week-5\\obj\\",
+        "outputPath": "C:\\Users\\misho\\source\\repos\\Homework-4-Week-5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",

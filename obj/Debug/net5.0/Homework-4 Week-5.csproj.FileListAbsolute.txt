@@ -14,3 +14,19 @@ C:\Users\misho\source\repos\Homework-4 Week-5\obj\Debug\net5.0\refint\Homework-4
 C:\Users\misho\source\repos\Homework-4 Week-5\obj\Debug\net5.0\Homework-4 Week-5.pdb
 C:\Users\misho\source\repos\Homework-4 Week-5\obj\Debug\net5.0\Homework-4 Week-5.genruntimeconfig.cache
 C:\Users\misho\source\repos\Homework-4 Week-5\obj\Debug\net5.0\ref\Homework-4 Week-5.dll
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.exe
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.deps.json
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.runtimeconfig.json
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.runtimeconfig.dev.json
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.dll
+C:\Users\misho\Source\Repos\Homework-4-Week-5\bin\Debug\net5.0\Homework-4 Week-5.pdb
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.csproj.AssemblyReference.cache
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.AssemblyInfoInputs.cache
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.AssemblyInfo.cs
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.csproj.CoreCompileInputs.cache
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.dll
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\refint\Homework-4 Week-5.dll
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.pdb
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\Homework-4 Week-5.genruntimeconfig.cache
+C:\Users\misho\Source\Repos\Homework-4-Week-5\obj\Debug\net5.0\ref\Homework-4 Week-5.dll
